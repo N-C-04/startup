@@ -30,7 +30,7 @@ Tired of waking up with a stiff neck when traveling? Don't worry, we've all been
 
 ### Design
 
-![Design image](placeholder.png)
+![Design image](sketch.png)
 
 Our design features a contoured memory foam core, breathable fabric cover, and adjustable clasp for 360° support. The pillow folds into a compact travel pouch that clips to your luggage.
 
