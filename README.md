@@ -1,4 +1,5 @@
-NeckVana
+"NeckVana"
+
 [My Notes](notes.md)
 
 Neckvana is a next generation travel neck pillow designed with everyone in mind. Featuring maximum comfort, portability, and style, Neckvana is a must.
