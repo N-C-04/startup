@@ -1,12 +1,31 @@
 # CS 260 Notes
 
-[My startup - Simon](https://simon.cs260.click)
+[My startup - Neckvana] (https://github.com/N-C-04/startup.git)
 
 ## Helpful links
 
 - [Course instruction](https://github.com/webprogramming260)
 - [Canvas](https://byu.instructure.com)
 - [MDN](https://developer.mozilla.org)
+
+
+## Git & GitHub Setup
+- Learned how to create a repository from a course template on GitHub.
+- Practiced cloning a repository to a local folder outside OneDrive to avoid sync issues.
+- Reviewed basic Git commands: `git add`, `git commit`, `git push`, and `git pull`.
+- Confirmed how to check repository status with `git status`.
+
+## Markdown Basics
+- Headings are created with `#` symbols.
+- Lists can be unordered (`-`) or ordered (`1.`).
+- Links use `[text](URL)` format.
+- Images use `![alt text](image.png)` format.
+
+## Startup Idea – Neckvana
+- A next‑generation travel neck pillow for comfort, portability, and style.
+- Key features: ergonomic 360° support, compact design, breathable cover, optional smart posture sensor.
+- Potential technologies: HTML/CSS for landing page, React for customization tool, backend service for orders, database for user profiles, WebSocket for live chat.
+
 
 ## AWS
 
