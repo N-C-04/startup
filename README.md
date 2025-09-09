@@ -1,4 +1,3 @@
-# Your startup name here
 NeckVana
 [My Notes](notes.md)
 
