@@ -43,9 +43,11 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Compact & Portable: compresses up to 50% of its size
+- Multi-use: doubles as lumbar support
+- Sleep monitoring system: be able to see your sleep wuality from your phone
+- Premium memory foam: superior support for your head and neck
+- Breathable, washable cover: for hygiene
 
 ### Technologies
 
