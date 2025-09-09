@@ -53,12 +53,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Build the product landing page and online store
+- **CSS** - Create a sleek, responsive design for mobile and desktop
+- **React** - Power interactive product customization (colors, fabrics, add‑ons)
+- **Service** - Backend API to handle orders, customer accounts, and reviews
+- **DB/Login** - Store user profiles, order history, and preferences
+- **WebSocket** - Enable real‑time customer support chat on the site
 
 ## 🚀 AWS deliverable
 
