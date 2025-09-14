@@ -21,9 +21,10 @@ Tired of waking up with a stiff neck when traveling? Don't worry, we've all been
 
 ### Design
 
-![Design image](sketch.png)
+![Design image](sketch.png)(website.png)
 
-Our design features a contoured memory foam core, breathable fabric cover, and adjustable clasp for 360° support. The pillow folds into a compact travel pouch that clips to your luggage.
+Our design features a contoured memory foam core, breathable fabric cover, and adjustable clasp for 360° support. The pillow folds into a compact travel pouch that clips to your luggage. The NeckVana website is designed to be clean and user-friendly, guiding visitors from product discovery to purchase with intuitive navigation and clear calls to action. It features a customizable product page, secure login, and a user dashboard that displays sleep data and order history, all tailored to enhance the travel pillow shopping experience.
+
 
 
 ### Key Features (Website)
