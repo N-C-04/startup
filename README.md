@@ -26,13 +26,14 @@ Tired of waking up with a stiff neck when traveling? Don't worry, we've all been
 Our design features a contoured memory foam core, breathable fabric cover, and adjustable clasp for 360° support. The pillow folds into a compact travel pouch that clips to your luggage.
 
 
-### Key features
+### Key Features (Website)
 
-- Compact & Portable: compresses up to 50% of its size
-- Multi-use: doubles as lumbar support
-- Sleep monitoring system: be able to see your sleep wuality from your phone
-- Premium memory foam: superior support for your head and neck
-- Breathable, washable cover: for hygiene
+- Secure login and user profile management  
+- Interactive product customization (color, fabric, add-ons)  
+- Shopping cart and secure checkout  
+- Order tracking and history  
+- Real-time customer support chat  
+- Sleep score dashboard for connected pillow users
 
 ### Technologies
 
