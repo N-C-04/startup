@@ -116,3 +116,18 @@ Handling the toggling of the checkboxes was particularly interesting.
   ))}
 </div>
 ```
+# CodePen Fork Notes
+- Replaced <div> navigation with <a> anchor tags linking to BYU and FamilySearch.
+- Updated <ul> list in the <section> to include: apples, bananas, oranges.
+- Added an <img> tag inside <aside> using an external image URL and set the width attribute.
+- Appended a new row to the <table> with: HTML, CSS, JavaScript.
+- Inserted my name in an <h1> tag inside the <header>.
+- Linked the <footer> to my GitHub repository.
+
+# Caddy Setup Notes
+- Learned how to locate and edit the Caddyfile in Ubuntu using nano and cd /etc/caddy.
+- Discovered how to validate the Caddyfile with caddy validate and reload with sudo systemctl reload caddy.
+- Used find / -name Caddyfile to locate missing config files.
+- Realized I need sudo access to edit system files — will follow up with instructor or TA for credentials.
+- Understood the structure of a proper Caddyfile block for serving multiple sites.
+
