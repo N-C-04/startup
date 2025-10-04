@@ -131,3 +131,5 @@ Handling the toggling of the checkboxes was particularly interesting.
 - Realized I need sudo access to edit system files — will follow up with instructor or TA for credentials.
 - Understood the structure of a proper Caddyfile block for serving multiple sites.
 
+ I fixed my git error and made sure i always went to the HTML folder inside the startup folder
+ 
