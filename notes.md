@@ -132,10 +132,17 @@ Handling the toggling of the checkboxes was particularly interesting.
 - Understood the structure of a proper Caddyfile block for serving multiple sites.
 
  I fixed my git error and made sure i always went to the HTML folder inside the startup folder
- 
+
  ## HTML Component Pages
 
 - Added `database.html` with a table showing sample stored data.
 - Created `websocket.html` with a placeholder for real-time updates.
 - Linked all pages together with navigation bars.
 - Confirmed structure with header, nav, main, footer.
+
+## Neckvana Homepage
+
+- Built `index.html` to reflect Neckvana’s brand and features.
+- Added navigation to all app components.
+- Included SVG and placeholder content for posture tracking.
+- Linked to GitHub repo and other pages.
