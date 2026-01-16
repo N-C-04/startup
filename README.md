@@ -1,4 +1,4 @@
-# Your startup name here
+# Group Voting App
 
 [My Notes](notes.md)
 
