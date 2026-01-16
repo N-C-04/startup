@@ -20,6 +20,7 @@ The Group Voting App is a simple, real‑time web application that lets users vo
 ### Design
 
 ![Design image](placeholder.png)
+
 The user opens the app and is shown a single question with several voting options. When the user clicks an option, the vote is sent to the server, which updates the totals and broadcasts the new results to all connected users in real time. The updated results are immediately displayed on the screen.
 
 ### Key features
