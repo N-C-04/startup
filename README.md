@@ -42,12 +42,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - I will use HTML to define the basic structure of my pages, including the home screen, voting screen, and results screen before converting them into React components.
+- **CSS** - I will use CSS to apply simple styling that centers content, formats buttons, and keeps the interface clean and readable.
+- **React** - I will use React to break the UI into components, manage user interactions, and handle routing between the Home, Vote, and Results pages.
+- **Service** - I will use a backend web service to provide endpoints for submitting votes, retrieving results, and fetching a fun fact.
+- **DB/Login** - I will use a database to store persistent vote totals so the results remain accurate across sessions and server restarts.
+- **WebSocket** - I will use WebSockets to broadcast updated vote totals to all connected clients in real time whenever a user casts a vote.
 
 ## 🚀 AWS deliverable
 
