@@ -34,9 +34,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- One‑click voting on a single question with 3–4 options
+- Real‑time results that update instantly for all users
+- Simple and clean design
 
 ### Technologies
 
