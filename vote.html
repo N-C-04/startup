@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vote - VoteNow</title>
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header>
+        <h1>VoteNow</h1>
+        <p>Real-time group voting made simple</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="vote.html">Vote</a>
+            <a href="results.html">Results</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- User Display -->
+        <section>
+            <p>Logged in as: <strong>Nicole</strong></p>
+            <p><em>Authentication: Username displayed after login</em></p>
+        </section>
+
+        <!-- Current Question - Database Data -->
+        <section>
+            <h2>Current Question</h2>
+            <h3>What's the best snack?</h3>
+            <p>Cast your vote below!</p>
+            <p><em>Database: Question loaded from MongoDB</em></p>
+        </section>
+
+        <!-- Voting Buttons -->
+        <section>
+            <h3>Your Vote</h3>
+            <form>
+                <div>
+                    <button type="button">🍪 Cookies</button>
+                </div>
+                <div>
+                    <button type="button">🍟 Chips</button>
+                </div>
+                <div>
+                    <button type="button">🍎 Fruit</button>
+                </div>
+                <div>
+                    <button type="button">🍫 Chocolate</button>
+                </div>
+            </form>
+            <p><em>JavaScript: Click handlers will submit vote and update database</em></p>
+            <p><em>Database: Vote will be saved to MongoDB</em></p>
+        </section>
+
+        <!-- Vote Confirmation Area -->
+        <section>
+            <h3>Your Selection</h3>
+            <p>You haven't voted yet. Click an option above!</p>
+            <p><em>JavaScript: This will update when user clicks a button</em></p>
+        </section>
+
+        <!-- Live Vote Feed - WebSocket -->
+        <section>
+            <h3>Recent Votes</h3>
+            <ul>
+                <li>Sarah voted 2 seconds ago</li>
+                <li>Mike voted 5 seconds ago</li>
+                <li>Emma voted 12 seconds ago</li>
+                <li>John voted 18 seconds ago</li>
+            </ul>
+            <p><em>WebSocket: Live feed of votes as they happen across all users</em></p>
+        </section>
+
+        <!-- Quick Results Preview -->
+        <section>
+            <h3>Current Standings</h3>
+            <p>Cookies: 12 votes</p>
+            <p>Chips: 8 votes</p>
+            <p>Fruit: 5 votes</p>
+            <p>Chocolate: 15 votes</p>
+            <p><a href="results.html">See detailed results →</a></p>
+            <p><em>Database: Vote counts retrieved from MongoDB</em></p>
+            <p><em>WebSocket: Counts update in real-time as people vote</em></p>
+        </section>
+
+        <!-- Fun Fact - Third Party API -->
+        <section>
+            <h3>While You Decide...</h3>
+            <p>"Chocolate was once used as currency by the Aztecs."</p>
+            <p><em>Third-party API: Random snack facts from external API</em></p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Created by Nicole | CS 260 - Web Programming</p>
+        <p>
+            <a href="https://github.com/yourusername/startup">GitHub Repository</a>
+        </p>
+    </footer>
+</body>
+</html>
