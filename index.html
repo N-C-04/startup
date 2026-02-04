@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VoteNow - Group Voting Made Simple</title>
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header>
+        <h1>VoteNow</h1>
+        <p>Real-time group voting made simple</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="vote.html">Vote</a>
+            <a href="results.html">Results</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- Welcome Section -->
+        <section>
+            <h2>Welcome to VoteNow!</h2>
+            <p>
+                The simplest way to make group decisions. Ask a question, 
+                get instant answers, and see results update in real-time.
+            </p>
+        </section>
+
+        <!-- Login Placeholder - Authentication -->
+        <section>
+            <h2>Get Started</h2>
+            <p>Login to create your vote and see results</p>
+            
+            <form>
+                <div>
+                    <label for="username">Username:</label>
+                    <input type="text" id="username" name="username" placeholder="Enter your name" required>
+                </div>
+                <div>
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" placeholder="Password" required>
+                </div>
+                <button type="submit">Login</button>
+                <button type="button">Create Account</button>
+            </form>
+            
+            <p><em>Authentication: User login will be implemented with secure authentication</em></p>
+        </section>
+
+        <!-- Current Question Preview -->
+        <section>
+            <h2>Today's Question</h2>
+            <h3>What's the best snack?</h3>
+            <p>4 people have voted so far</p>
+            <p><a href="vote.html">Cast your vote →</a></p>
+            <p><em>Database: Question and vote count retrieved from MongoDB</em></p>
+        </section>
+
+        <!-- Live Activity - WebSocket Placeholder -->
+        <section>
+            <h3>Live Activity</h3>
+            <ul>
+                <li>Sarah just voted for "Chips"</li>
+                <li>Mike just voted for "Cookies"</li>
+                <li>Emma just voted for "Fruit"</li>
+            </ul>
+            <p><em>WebSocket: Real-time voting activity will update automatically for all users</em></p>
+        </section>
+
+        <!-- Fun Fact - Third Party API Placeholder -->
+        <section>
+            <h3>Did You Know?</h3>
+            <p>"The average person makes 35,000 decisions per day."</p>
+            <p><em>Third-party API: Random fun facts fetched from an external API</em></p>
+        </section>
+
+        <!-- App Image -->
+        <section>
+            <h3>How It Works</h3>
+            <img src="https://via.placeholder.com/600x300/4A90E2/FFFFFF?text=Vote+→+See+Results+→+Make+Decisions" 
+                 alt="VoteNow workflow diagram" 
+                 width="600">
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Created by Nicole | CS 260 - Web Programming</p>
+        <p>
+            <a href="https://github.com/yourusername/startup">GitHub Repository</a>
+        </p>
+    </footer>
+</body>
+</html>
