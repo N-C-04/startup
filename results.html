@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results - VoteNow</title>
+</head>
+<body>
+    <!-- Header with Navigation -->
+    <header>
+        <h1>VoteNow</h1>
+        <p>Real-time group voting made simple</p>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="vote.html">Vote</a>
+            <a href="results.html">Results</a>
+        </nav>
+    </header>
+
+    <main>
+        <!-- User Display -->
+        <section>
+            <p>Logged in as: <strong>Nicole</strong></p>
+        </section>
+
+        <!-- Question Title -->
+        <section>
+            <h2>Results: What's the best snack?</h2>
+            <p>Total votes: 40</p>
+            <p><em>Database: Results retrieved from MongoDB</em></p>
+        </section>
+
+        <!-- Results Table - Database Data -->
+        <section>
+            <h3>Vote Breakdown</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>Option</th>
+                        <th>Votes</th>
+                        <th>Percentage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>🍫 Chocolate</td>
+                        <td>15</td>
+                        <td>37.5%</td>
+                    </tr>
+                    <tr>
+                        <td>🍪 Cookies</td>
+                        <td>12</td>
+                        <td>30.0%</td>
+                    </tr>
+                    <tr>
+                        <td>🍟 Chips</td>
+                        <td>8</td>
+                        <td>20.0%</td>
+                    </tr>
+                    <tr>
+                        <td>🍎 Fruit</td>
+                        <td>5</td>
+                        <td>12.5%</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><em>Database: Vote counts stored and retrieved from MongoDB</em></p>
+            <p><em>JavaScript: Percentages calculated dynamically</em></p>
+        </section>
+
+        <!-- Visual Results (Placeholder for Chart) -->
+        <section>
+            <h3>Visual Breakdown</h3>
+            <p>Chocolate: ███████████████ (15)</p>
+            <p>Cookies: ████████████ (12)</p>
+            <p>Chips: ████████ (8)</p>
+            <p>Fruit: █████ (5)</p>
+            <p><em>JavaScript: Chart will be rendered with a charting library</em></p>
+        </section>
+
+        <!-- Winner Announcement -->
+        <section>
+            <h3>🏆 Current Leader</h3>
+            <h2>Chocolate is winning!</h2>
+            <p>With 15 votes (37.5% of total votes)</p>
+        </section>
+
+        <!-- Live Updates - WebSocket -->
+        <section>
+            <h3>Live Vote Stream</h3>
+            <p><strong>Results update automatically as people vote!</strong></p>
+            <ul>
+                <li>New vote received! Chocolate now has 16 votes</li>
+                <li>Sarah just voted for Chips</li>
+                <li>Mike just voted for Cookies</li>
+                <li>Emma voted 30 seconds ago</li>
+            </ul>
+            <p><em>WebSocket: Real-time updates pushed to all connected clients</em></p>
+        </section>
+
+        <!-- Voting History - Database Data -->
+        <section>
+            <h3>Recent Voters</h3>
+            <table border="1">
+                <thead>
+                    <tr>
+                        <th>User</th>
+                        <th>Vote</th>
+                        <th>Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Sarah</td>
+                        <td>Chips</td>
+                        <td>2 min ago</td>
+                    </tr>
+                    <tr>
+                        <td>Mike</td>
+                        <td>Cookies</td>
+                        <td>5 min ago</td>
+                    </tr>
+                    <tr>
+                        <td>Emma</td>
+                        <td>Chocolate</td>
+                        <td>8 min ago</td>
+                    </tr>
+                    <tr>
+                        <td>John</td>
+                        <td>Fruit</td>
+                        <td>10 min ago</td>
+                    </tr>
+                    <tr>
+                        <td>Lisa</td>
+                        <td>Chocolate</td>
+                        <td>12 min ago</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><em>Database: Voting history stored in MongoDB with timestamps</em></p>
+        </section>
+
+        <!-- Voting Statistics -->
+        <section>
+            <h3>Statistics</h3>
+            <ul>
+                <li>Total participants: 40</li>
+                <li>Most popular choice: Chocolate</li>
+                <li>Least popular choice: Fruit</li>
+                <li>Average votes per option: 10</li>
+            </ul>
+            <p><em>Database: Statistics calculated from stored vote data</em></p>
+        </section>
+
+        <!-- Fun Fact - Third Party API -->
+        <section>
+            <h3>Did You Know?</h3>
+            <p>"The world's most expensive chocolate bar costs $260."</p>
+            <p><em>Third-party API: Random fun facts from external API service</em></p>
+        </section>
+
+        <!-- Image/Chart Placeholder -->
+        <section>
+            <h3>Results Chart</h3>
+            <img src="https://via.placeholder.com/600x400/4A90E2/FFFFFF?text=Bar+Chart+Will+Display+Here" 
+                 alt="Vote results bar chart" 
+                 width="600">
+            <p><em>JavaScript: Dynamic chart will be generated using Chart.js or similar library</em></p>
+        </section>
+
+        <!-- Action Buttons -->
+        <section>
+            <p><a href="vote.html">Change Your Vote</a></p>
+            <p><a href="index.html">Back to Home</a></p>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Created by Nicole | CS 260 - Web Programming</p>
+        <p>
+            <a href="https://github.com/yourusername/startup">GitHub Repository</a>
+        </p>
+    </footer>
+</body>
+</html>
