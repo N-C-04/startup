@@ -54,7 +54,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Proper HTML element usage** - I used proper semantic HTML elements including BODY, NAV, MAIN, HEADER, FOOTER, and SECTION throughout all pages.
 - [x] **Links** - I added navigation links between all three pages in the header nav element, and included a link to my GitHub repository in the footer of each page.
 - [x] **Text** - I included textual content describing the VoteNow app, voting question, options, and results.
-- [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
+- [x] **3rd party API placeholder** - I added "Did You Know?" sections with fun facts on all pages, marked with comments indicating they will be fetched from an external API.
 - [ ] **Images** - I did not complete this part of the deliverable.
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
 - [ ] **DB data placeholder** - I did not complete this part of the deliverable.
