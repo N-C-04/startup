@@ -53,7 +53,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **HTML pages** - I created 3 HTML pages: index.html, vote.html, and results.html
 - [x] **Proper HTML element usage** - I used proper semantic HTML elements including BODY, NAV, MAIN, HEADER, FOOTER, and SECTION throughout all pages.
 - [x] **Links** - I added navigation links between all three pages in the header nav element, and included a link to my GitHub repository in the footer of each page.
-- [ ] **Text** - I did not complete this part of the deliverable.
+- [x] **Text** - I included textual content describing the VoteNow app, voting question, options, and results.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
 - [ ] **Images** - I did not complete this part of the deliverable.
 - [ ] **Login placeholder** - I did not complete this part of the deliverable.
