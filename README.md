@@ -51,7 +51,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
 - [x] **HTML pages** - I created 3 HTML pages: index.html, vote.html, and results.html
-- [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
+- [x] **Proper HTML element usage** - I used proper semantic HTML elements including BODY, NAV, MAIN, HEADER, FOOTER, and SECTION throughout all pages.
 - [ ] **Links** - I did not complete this part of the deliverable.
 - [ ] **Text** - I did not complete this part of the deliverable.
 - [ ] **3rd party API placeholder** - I did not complete this part of the deliverable.
