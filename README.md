@@ -58,7 +58,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Images** - I included placeholder images for the app workflow diagram on index.html and a chart placeholder on results.html.
 - [x] **Login placeholder** - I created a login form on index.html with username and password inputs, and displayed the logged-in username on vote.html and results.html.
 - [x] **DB data placeholder** - I added mock data for the voting question, vote counts, voting history table, and statistics that will eventually be stored in and retrieved from MongoDB.
-- [ ] **WebSocket placeholder** - I did not complete this part of the deliverable.
+- [x] **WebSocket placeholder** - I included live activity feeds and real-time update sections on all three pages with comments indicating where WebSocket data will be displayed.
 
 ## 🚀 CSS deliverable
 
