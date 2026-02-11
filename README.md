@@ -64,12 +64,12 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Visually appealing colors and layout. No overflowing elements.** - I did not complete this part of the deliverable.
-- [ ] **Use of a CSS framework** - I did not complete this part of the deliverable.
-- [ ] **All visual elements styled using CSS** - I did not complete this part of the deliverable.
-- [ ] **Responsive to window resizing using flexbox and/or grid display** - I did not complete this part of the deliverable.
-- [ ] **Use of a imported font** - I did not complete this part of the deliverable.
-- [ ] **Use of different types of selectors including element, class, ID, and pseudo selectors** - I did not complete this part of the deliverable.
+- [x] **Visually appealing colors and layout. No overflowing elements.** - I created a clean, centered layout with consistent spacing and a simple color palette that keeps the interface readable without any overflowing content
+- [x] **Use of a CSS framework** - I incorporated a lightweight CSS framework to simplify layout, spacing, and button styling, helping the website look clean with minimal custom code.
+- [x] **All visual elements styled using CSS** - Every visible element—including buttons, text, containers, and page sections—has custom CSS applied to ensure a cohesive look across the entire app.
+- [x] **Responsive to window resizing using flexbox and/or grid display** - I used flexbox to make the layout automatically adjust to different screen sizes so the content stays centered and readable on any device.
+- [x] **Use of a imported font** - I imported a font to improve the overall visual style and give the app a more polished, modern appearance.
+- [x] **Use of different types of selectors including element, class, ID, and pseudo selectors** - - I used a variety of selectors to control the appearance and interactivity of the UI.
 
 ## 🚀 React part 1: Routing deliverable
 
